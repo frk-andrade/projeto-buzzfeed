@@ -1,5 +1,7 @@
 # ProjetoBuzzfeed
 
+Projeto criado no curso da DIO inspirado na sessão de quiz da página do Buzz Feed
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.6.
 
 ## Development server
