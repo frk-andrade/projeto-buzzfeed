@@ -4,6 +4,8 @@
   "compileOnSave": false,
   "compilerOptions": {
     "outDir": "./dist/out-tsc",
+    "resolveJsonModule": true, //habilita a leitura do json
+    "allowSyntheticDefaultImports": true, // habilita a leitura de arquivos que não sejam typescript
     "strict": true,
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
