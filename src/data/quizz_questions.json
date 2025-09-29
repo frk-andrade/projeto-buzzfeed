@@ -1,55 +1,59 @@
 {
-  "title":"Você seria um Herói ou Vilão ?",
+  "title":"Você seria um Unicórnio 🦄 ou um Troll 🧌?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Como você lida com um dia de chuva ?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Reclamo do trânsito e do tempo cinzento. Pelo menos posso usar minhas meias de unicórnio.", "alias":"A"},
+        {"id": 2, "name":"Pego um cobertor, faço um chá e assisto ao meu filme favorito. É a desculpa perfeita para relaxar.", "alias":"B"},
+        {"id": 3, "name":"Fico em casa, mas aproveito para fazer aquela lista de tarefas que estava ignorando.", "alias":"A"},
+        {"id": 4, "name":"Canto e danço na chuva, porque cada gota é uma bênção.", "alias":"B"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Qual é a sua reação quando alguém cancela um compromisso em cima da hora ?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Que bom! Mais tempo para mim", "alias":"A"},
+        {"id": 2, "name":"Tudo bem, a gente se encontra em outro momento. Espero que esteja tudo bem.", "alias":"B"},
+        {"id": 3, "name":"Não acredito, perdi tempo me arrumando.", "alias":"A"},
+        {"id": 4, "name":"Vou aproveitar o tempo livre para fazer algo inesperado e divertido!", "alias":"B"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Se você pudesse ter um superpoder, qual seria ?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"A habilidade de ficar invisível para evitar encontros sociais.", "alias":"A"},
+        {"id": 2, "name":"O poder de espalhar alegria e purpurina por onde eu passo.", "alias":"B"},
+        {"id": 3, "name":"O poder de ler mentes, para sempre saber a verdade por trás dos sorrisos.", "alias":"A"},
+        {"id": 4, "name":"O poder de voar. A liberdade de ir onde quiser!", "alias":"B"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Você encontra uma moeda de 1 real na rua. O que você faz ?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Guardo como um amuleto da sorte.", "alias":"B"},
+        {"id": 2, "name":"Deixo para trás. Não vale o esforço de pegar.", "alias":"A"},
+        {"id": 3, "name":"Analiso se é falsa antes de guardar. Nunca se sabe.", "alias":"A"},
+        {"id": 4, "name":"Fico animado! Um centavo a mais é um centavo a mais.", "alias":"B"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Como você responde a um oi de alguém que você não conhece em uma festa ?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Sorrio e pergunto: E aí, qual a sua história?" , "alias":"B"},
+        {"id": 2, "name":"Olá! Qual o seu drink?", "alias":"A"},
+        {"id": 3, "name":"Fico um pouco desconfortável, mas digo oi de volta.", "alias":"A"},
+        {"id": 4, "name":"Faço uma piada e pergunto: Você também veio pela comida?", "alias":"B"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super Vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você muito provavelmente seria um Unicórnio mal humorado!",
+    "B": "Você muito provavelmente seria um Troll do bem! Porque não?"
   }
 }
